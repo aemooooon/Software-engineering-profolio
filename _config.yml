@@ -14,7 +14,7 @@ title:            'Jekyll Metro'
 tagline:          'A Metro theme for Jekyll'
 description:      'A Sample blog using Jekyll Metro'
 url:              'https://softenop.github.io/soften-portfolio-aemooooon'
-baseurl:          ''
+baseurl:          'https://softenop.github.io/soften-portfolio-aemooooon/'
 
 # Navigation
 navigation:
