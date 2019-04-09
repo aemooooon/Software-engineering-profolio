@@ -1,7 +1,15 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-  	<p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p>
-  </div>
-
+<footer class="row">
+      <div class="col-ms-12 text-center">
+            <hr/>
+            {% if site.footersvg == 'true' %}
+                  <div>{% include svg-icons.html %}</div>
+            {% endif %}
+            &copy; {{ site.time | date: '%Y' }} - {{site.author}}. All rights reserved<br/>
+            Built using 
+            {% if page.theme And page.theme != "" And page.theme != nil %}
+            <a class="{{page.theme}}-link" href="http://jekyllrb.com/">Jekyll</a>
+            {% else %}
+            <a href="http://jekyllrb.com/">Jekyll</a>
+            {% endif %}
+      </div>
 </footer>
