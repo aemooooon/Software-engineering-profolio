@@ -19,17 +19,17 @@ baseurl:          '/soften-portfolio-aemooooon/'
 # Navigation
 navigation:
 - text: Sprint Golas
-  url: /sprintgoals/
+  url: /soften-portfolio-aemooooon/sprintgoals/
 - text: Team Member
-  url: /team/
+  url: /soften-portfolio-aemooooon/team/
 - text: Blog
-  url: /blog/
+  url: /soften-portfolio-aemooooon/blog/
 - text: Tags
-  url: /tags/
+  url: /soften-portfolio-aemooooon/tags/
 - text: Archive
-  url : /archive/
+  url : /soften-portfolio-aemooooon/archive/
 - text: Search
-  url: /search/
+  url: /soften-portfolio-aemooooon/search/
 
 
 # Author Details
