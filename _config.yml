@@ -18,10 +18,10 @@ baseurl:          '/soften-portfolio-aemooooon/'
 
 # Navigation
 navigation:
-- text: About
-  url: /about/
-- text: Resume
-  url: /resume/
+- text: Sprint Golas
+  url: /sprintgoals/
+- text: Team Member
+  url: /team/
 - text: Blog
   url: /blog/
 - text: Tags
