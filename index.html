@@ -44,7 +44,7 @@ description: Home Page for Jekyll Metro Theme
 				{% for post in site.posts offset:1 limit:1 %}
 				<a href="{{site.url}}/{{post.url}}" title="Recent Article">
 					<div class="tile green">
-						<h3 class="title">Agile evidence</h3>
+						<h2 class="title">Agile Evidence</h2>
 						<h4 class="title">{{ post.title }}</h4>
 						<p> {{ post.content | strip_html | truncatewords: 10 }}</p>
 					</div>
@@ -57,7 +57,7 @@ description: Home Page for Jekyll Metro Theme
 				{% for post in site.posts limit:1 %}
 				<a href="{{site.url}}/{{post.url}}" title="Latest Article">
 					<div class="tile red">
-						<h3 class="title">My reflection</h3>
+						<h2 class="title">Personal Reflection</h2>
 						<h4 class="title">{{ post.title }}</h4>
 						<p> {{ post.content | strip_html | truncatewords: 10 }}</p>
 					</div>
