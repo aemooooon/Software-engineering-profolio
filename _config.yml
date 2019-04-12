@@ -11,8 +11,8 @@ permalink:        /blog/:year/:month/:day/:title
 
 # Setup
 title:            'Software Engineering Portfolio - Aemooooon'
-tagline:          'A Metro theme for Jekyll'
-description:      'A Sample blog using Jekyll Metro'
+tagline:          'Aemooooon portfolio for Software Engineering'
+description:      'All of the proceduals from Software Engineering that includes evidence, learning log, Agile reflection.'
 url:              'https://softenop.github.io/soften-portfolio-aemooooon'
 baseurl:          '/soften-portfolio-aemooooon/'
 
