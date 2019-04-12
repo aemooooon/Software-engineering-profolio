@@ -32,9 +32,10 @@ description: Home Page for Jekyll Metro Theme
 				</a>
 			</div>
 			<div class="col-md-2 col-sm-3 col-xs-6">
-				<a href="feed.xml" title="RSS Feed" class="tile orange">
-					<i class="icon-rss" style="font-size:8em"></i>
+				<a href="https://github.com/SoftEnOP/inventory-tracker-wecantthinkofaname" title="Project GitHub" class="tile darken" >
+					<i class="icon-gthb" style="font-size:8em"></i>
 				</a>
+				
 			</div>
 		</div>
 
@@ -44,9 +45,8 @@ description: Home Page for Jekyll Metro Theme
 				{% for post in site.posts offset:1 limit:1 %}
 				<a href="{{site.url}}/{{post.url}}" title="Recent Article">
 					<div class="tile green">
-						<h2 class="title">Agile Evidence</h2>
-						<h4 class="title">{{ post.title }}</h4>
-						<p> {{ post.content | strip_html | truncatewords: 10 }}</p>
+						<h2 class="title">Agile & Evidence</h2>
+						<p> </p>
 					</div>
 				</a>
 				{% endfor %}
@@ -66,8 +66,8 @@ description: Home Page for Jekyll Metro Theme
 			
 			
 			<div class="col-md-2 col-sm-3 col-xs-6">
-				<a href="https://github.com/SoftEnOP/inventory-tracker-wecantthinkofaname" title="Project GitHub" class="tile darken" >
-					<i class="icon-gthb" style="font-size:8em"></i>
+				<a href="feed.xml" title="RSS Feed" class="tile orange">
+					<i class="icon-rss" style="font-size:8em"></i>
 				</a>
 			</div>
 			
@@ -95,8 +95,7 @@ description: Home Page for Jekyll Metro Theme
 				<a href="{{site.url}}/{{post.url}}" title="Latest Article">
 					<div class="tile red">
 						<h2 class="title">Personal Reflection</h2>
-						<h4 class="title">{{ post.title }}</h4>
-						<p> {{ post.content | strip_html | truncatewords: 10 }}</p>
+						<p> </p>
 					</div>
 				</a>
 				{% endfor %}
