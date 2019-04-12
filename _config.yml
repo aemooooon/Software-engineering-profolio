@@ -10,7 +10,7 @@ gems: [jekyll-paginate]
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Jekyll Metro'
+title:            'Software Engineering Portfolio - Aemooooon'
 tagline:          'A Metro theme for Jekyll'
 description:      'A Sample blog using Jekyll Metro'
 url:              'https://softenop.github.io/soften-portfolio-aemooooon'
@@ -33,7 +33,7 @@ navigation:
 
 
 # Author Details
-author:         'Abdel Raoof Olakara'
+author:         'Hua WANG'
 
 #Social Media links (Use complete URL except for email)
 dribbble:
