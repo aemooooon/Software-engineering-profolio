@@ -12,7 +12,7 @@ permalink:        /blog/:year/:month/:day/:title
 # Setup
 title:            'Software Engineering Portfolio - Aemooooon'
 tagline:          'Aemooooon portfolio for Software Engineering'
-description:      'All of the proceduals from Software Engineering that includes evidence, learning log, Agile reflection.'
+description:      'All of the procedual from Software Engineering that includes evidence, learning log, reflection.'
 url:              'https://softenop.github.io/soften-portfolio-aemooooon'
 baseurl:          '/soften-portfolio-aemooooon/'
 
@@ -20,14 +20,14 @@ baseurl:          '/soften-portfolio-aemooooon/'
 navigation:
 - text: Sprint Golas
   url: /soften-portfolio-aemooooon/sprintgoals/
-- text: Agile
+- text: Agile Evidence
   url: /soften-portfolio-aemooooon/agile/
 - text: Personal reflection
   url: /soften-portfolio-aemooooon/reflection/
 - text: Team Member
   url: /soften-portfolio-aemooooon/team/
-- text: Blog
-  url: /soften-portfolio-aemooooon/blog/
+# - text: Blog
+#   url: /soften-portfolio-aemooooon/blog/
 # - text: Tags
 #   url: /soften-portfolio-aemooooon/tags/
 # - text: Archive
