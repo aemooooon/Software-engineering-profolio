@@ -20,16 +20,20 @@ baseurl:          '/soften-portfolio-aemooooon/'
 navigation:
 - text: Sprint Golas
   url: /soften-portfolio-aemooooon/sprintgoals/
+- text: Agile
+  url: /soften-portfolio-aemooooon/agile/
+- text: Personal reflection
+  url: /soften-portfolio-aemooooon/reflection/
 - text: Team Member
   url: /soften-portfolio-aemooooon/team/
 - text: Blog
   url: /soften-portfolio-aemooooon/blog/
-- text: Tags
-  url: /soften-portfolio-aemooooon/tags/
-- text: Archive
-  url : /soften-portfolio-aemooooon/archive/
-- text: Search
-  url: /soften-portfolio-aemooooon/search/
+# - text: Tags
+#   url: /soften-portfolio-aemooooon/tags/
+# - text: Archive
+#   url : /soften-portfolio-aemooooon/archive/
+# - text: Search
+#   url: /soften-portfolio-aemooooon/search/
 
 
 # Author Details
