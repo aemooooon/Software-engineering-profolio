@@ -5,12 +5,12 @@ description: For each sprint, set one SMART goal to cover each of: professional 
 theme: purple
 ---
 
-
+<br>
 ### Table of Content
-  * [Sprint 1](#Sprint 1)
-  * [Sprint 21](#Sprint 2)
-  * [Sprint 3](#Sprint 3)
-  * [Sprint 4](#Sprint 4)
+  * [Sprint 1](#Sprint-1)
+  * [Sprint 2](#Sprint-2)
+  * [Sprint 3](#Sprint-3)
+  * [Sprint 4](#Sprint-4)
 
 ## Sprint 1
 
