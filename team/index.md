@@ -4,38 +4,33 @@ title: Team Members
 description: Team member information
 theme: blue
 ---
-Six years of experience in software development on Microsoft and Java technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
-
-**Experience in Web Technology:**
-Building and Supporting web applications using Microsoft Technologies (ASP.Net & ASP.Net MVC). Developing UI using Ext JS and jQuery.
-
-**Experience in Enterprise Content Management:**
-Implemented custom applications for content and knowledge management. Have also worked with leading industry ECM applications like SharePoint 2013, MOSS 2007, SharePoint 2010 and Documentum.
+We are "wecantthinkofaname" team group which are five people in. All fo us have a very good friendship, mateship and had in same learning stream for about 2 years.
 
 <!-- Skills -->
 <section class="row">
 	<header class="col-md-3">
-		<h3 style="text-transform:uppercase;color:gray">Skills</h3>
+		<h3 style="text-transform:uppercase;color:gray">Member List</h3>
 	</header>
 	<div class="col-md-9">
 		<div class="row">
 			<div class="col-md-6">
 				<ul class="list-group">
-					<li class="list-group-item active"><h4><strong>Programming</strong></h4></li>
-					<li class="list-group-item">C#</li>
-					<li class="list-group-item">ASP.Net / ASP.Net MVC</li>
-					<li class="list-group-item">Javascript</li>
-					<li class="list-group-item">HTML & CSS</li>
+					<li class="list-group-item active"><h4><strong>Name</strong></h4></li>
+					<li class="list-group-item">Aaron</li>
+					<li class="list-group-item">Aemon</li>
+					<li class="list-group-item">Jordon</li>
+					<li class="list-group-item">Keven</li>
+					<li class="list-group-item">Stefan</li>
 				</ul>
 			</div>
-			<div class="col-md-6">
+			<!-- <div class="col-md-6">
 				<ul class="list-group">
 					<li class="list-group-item active"><h4><strong>Specialties</strong></h4></li>
 					<li class="list-group-item">.Net Web Technologies</li>
 					<li class="list-group-item">SharePoint 2013</li>
 					<li class="list-group-item">Sencha Ext Js</li>
 				</ul>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </section>
