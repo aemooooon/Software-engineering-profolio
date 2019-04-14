@@ -2,7 +2,7 @@
 layout: page
 title: Team Members
 description: Team member information
-theme: red
+theme: blue
 ---
 Six years of experience in software development on Microsoft and Java technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
 
