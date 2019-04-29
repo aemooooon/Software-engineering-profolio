@@ -59,3 +59,13 @@ emerge from self-organizing teams.
 12. At regular intervals, the team reflects on how 
 to become more effective, then tunes and adjusts 
 its behavior accordingly.
+
+# Agile Sprint Velocity
+Velocity is a metric that predicts how much work an Agile software development team can successfully complete within a two-week sprint (or similar time-boxed period).
+
+Velocity is a useful planning tool for estimating how fast work can be completed and how long it will take to complete a project. The metric is calculated by reviewing work the team successfully completed during previous sprints; for example, if the team completed 10 stories during a two-week sprint and each story was worth 3 story points, then the team's velocity is 30 story points per sprint. 
+
+Generally, velocity remains somewhat constant during a development project, which makes it a useful metric for estimating how long it will take a team to complete a software development project. If the product backlog has 300 story points, and the team is averaging 30 story points per sprint, it can be estimated that team members will require 10 more sprints to complete work. If each sprint lasts two weeks, then the project will last 20 more weeks. If a team member is moved to another project, however, or new members are added -- the velocity must be recalculated.
+
+# Burndown Chart
+Progress on a Scrum project can be tracked by means of a release burndown chart. The horizontal axis of the sprint burndown chart shows the sprints; the vertical axis shows the amount of work remaining at the start of each sprint. Work remaining can be shown in whatever unit the team prefers—story points, ideal days, team days and so on.
