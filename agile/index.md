@@ -5,6 +5,10 @@ description: Agile manifesto, principles and the impact of our project.
 theme: green
 ---
 
+Create a section of your portfolio in which you outline the impact of Agile manifesto, principles and tools on the professionalism, ethics and success of your project.
+Include specific examples from the project work you have done.
+Your portfolio must outline the impact of the Agile methodology on the project, including examples of the application of agile principles, Scrum framework or other tools to manage the project’s ability to meet the users’ needs in a professional and ethical way.
+
 # Agile Manifesto
 **Individuals and interactions** over processes and tools<br>
 **Working software** over comprehensive documentation<br>
