@@ -15,9 +15,13 @@ Your portfolio will need to demonstrate sufficient commitment to making appropri
 
 ## Sprint 1
 ### Professional practices
+I communicated with my team members well, we have Facebook Messager and alos use GitHub project tools. The only problems was I didn't considered talk to our customer in the start of Sprint 1.
 ### Technical proficiency
+In that time, the technical thing is Laravel framework stuff. I learnd a lot about MVC conception, and how to create Model, view, Controller under the Laravel framework.
+**MVC** is acronmy of Model, View, Controller which represent the new design pattern in Web development industry. And Laravel framework is one of PHP framework can go quickly create MVC application.<br>
+We use 
 ### Agile-ness
-In the first Sprint, our temp set up a goals which are finish four User stories below:
+In the first Sprint, our team set up a goals which are finish four User stories below:
 * Add new equipment
 * Delete Item
 * Edit Item
