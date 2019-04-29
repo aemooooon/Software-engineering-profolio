@@ -14,12 +14,21 @@ Your portfolio will need to demonstrate sufficient commitment to making appropri
 
 
 ## Sprint 1
-
+### Professional practices
+### Technical proficiency
+### Agile-ness
 
 ## Sprint 2
-
+### Professional practices
+### Technical proficiency
+### Agile-ness
 
 ## Sprint 3
-
+### Professional practices
+### Technical proficiency
+### Agile-ness
 
 ## Sprint 4
+### Professional practices
+### Technical proficiency
+### Agile-ness
