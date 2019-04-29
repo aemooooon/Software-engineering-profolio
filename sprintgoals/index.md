@@ -27,6 +27,39 @@ In the first Sprint, our temp set up a goals which are finish four User stories 
 ## Sprint 2
 ### Professional practices
 ### Technical proficiency
+In this Sprint, when I done all new features and deploy on server, a error display below:
+```bash
+Migrating: 2019_04_10_040233_create_trackings_table
+
+   Illuminate\Database\QueryException  : SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'trackings' already exists (SQL: create table `trackings` (`id` int unsigned not null auto_increment primary key, `productID` int not null, `location` varchar(191) not null, `person` varchar(191) not null, `amount` varchar(191) not null, `dateMoved` varchar(191) not null, `created_at` timestamp null, `updated_at` timestamp null) default character set utf8mb4 collate 'utf8mb4_unicode_ci')
+
+  at /home/se19s1_02/public_html/inventory-tracker-wecantthinkofaname/stocks/vendor/laravel/framework/src/Illuminate/Database/Connection.php:664
+    660|         // If an exception occurs when attempting to run a query, we'll format the error
+    661|         // message to include the bindings with SQL, which will make this exception a
+    662|         // lot more helpful to the developer instead of just the database's errors.
+    663|         catch (Exception $e) {
+  > 664|             throw new QueryException(
+    665|                 $query, $this->prepareBindings($bindings), $e
+    666|             );
+    667|         }
+    668|
+
+  Exception trace:
+
+  1   PDOException::("SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'trackings' already exists")
+      /home/se19s1_02/public_html/inventory-tracker-wecantthinkofaname/stocks/vendor/laravel/framework/src/Illuminate/Database/Connection.php:458
+
+  2   PDOStatement::execute()
+      /home/se19s1_02/public_html/inventory-tracker-wecantthinkofaname/stocks/vendor/laravel/framework/src/Illuminate/Database/Connection.php:458
+
+  Please use the argument -v to see more details.
+```
+The reason was database has already exist the table(Model), the solution like below:
+```sql
+php artisan tinker
+Schema::drop('trackings')
+```
+
 ### Agile-ness
 
 ## Sprint 3
