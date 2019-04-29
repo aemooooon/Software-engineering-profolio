@@ -17,6 +17,12 @@ Your portfolio will need to demonstrate sufficient commitment to making appropri
 ### Professional practices
 ### Technical proficiency
 ### Agile-ness
+In the first Sprint, our temp set up a goals which are finish four User stories below:
+* Add new equipment
+* Delete Item
+* Edit Item
+* Tracking Equipment
+
 
 ## Sprint 2
 ### Professional practices
