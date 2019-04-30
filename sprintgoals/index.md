@@ -73,5 +73,15 @@ Schema::drop('trackings')
 
 ## Sprint 4
 ### Professional practices
+Today(2019-04-30) we have a meeting with our customer Paul and also we have greeting with our team members.
+(Picture by Yandong here)
+We have show all Sprint 3 working to Paul, and talk about some features need to update and some new features we need to catch up. I list the user stories below:
+* customer want to Dashboard functionility on home page, just show some brief information like how many stocks do they have and how many equipment ouf of a number.
+* Customer want to the system has authority functionility rather than every one else can access the page do any changing.
+* Customer want to know how long the tracking equipment has been taken whcih is borrow time and return time needed.
+* In tracking page, Customer wish see the borrow button instead of edit button.
+* In tracking page, Customer likes to search item, makes his working more easy.
+So all of ablow requirements are this Sprint golas. I made the all of stuff to User stories and put it into Kanban borad, make sure each of our team members can take it.
+
 ### Technical proficiency
 ### Agile-ness
