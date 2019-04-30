@@ -29,6 +29,52 @@ Install Laravel commandline:
 Migrates commandline:
 > php artisan migrate
 
+Create a Model commandline:
+> php artisan make:model ModelName -m
+
+In the create_shares_table.php file, I can define model structure just like below:
+```php
+public function up()
+    {
+        Schema::create('modelnames', function (Blueprint $table) {
+            $table->increments('id');
+            $table->string('modelnames_name');
+            $table->integer('modelnames_price');
+            $table->integer('modelnames_qty');
+            $table->timestamps();
+        });
+    }
+```
+then I can add the fillable property inside ModelName.php file
+```php
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class ModelName extends Model
+{
+  protected $fillable = [
+    'modelname_name',
+    'modelname_price',
+    'modelname_qty'
+  ];
+}
+```
+Create controller
+> php artisan make:controller ModelNameController --resource
+
+Add controller to web.php
+```php
+Route::get('/', function () {
+    return view('welcome');
+});
+
+Route::resource('modelnames', 'ModelNameController');
+```
+
+List route
+> php artisan route:list
+
 
 ### Agile-ness
 In the first Sprint, our team set up a goals which are finish four User stories below:
