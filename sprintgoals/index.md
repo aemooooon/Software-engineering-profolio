@@ -147,8 +147,6 @@ About add search features to our project, I was considering three way to impleme
 
 I was try to use the first one, but some werid problems I haven't solve and also talk to Martin the best way is the second one as he said. So here I just list some key point:
 
-### Agile-ness
-As the decision of meeting, I have took two user stories in this stage, the one is Search features, other one is DeployOntoServer. And also I will do some change on trickings view such as dropdown list on the add new tracks page.<br>
 The index route of trackingsController below, just check the user whether click the button or not, and return the both way might be result.
 ```php\
 use Illuminate\Http\Request;
@@ -185,3 +183,7 @@ Form tags in view of trackings:
     </div>
 </form>
 ```
+
+### Agile-ness
+As the decision of meeting, I have took two user stories in this stage, the one is Search features, other one is DeployOntoServer. And also I will do some change on trickings view such as dropdown list on the add new tracks page.<br>
+
