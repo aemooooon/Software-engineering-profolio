@@ -24,8 +24,8 @@ navigation:
   url: /soften-portfolio-aemooooon/agile/
 - text: Personal reflection
   url: /soften-portfolio-aemooooon/reflection/
-- text: Team Member
-  url: /soften-portfolio-aemooooon/team/
+#- text: Team Member
+#  url: /soften-portfolio-aemooooon/team/
 # - text: Blog
 #   url: /soften-portfolio-aemooooon/blog/
 # - text: Tags
@@ -45,13 +45,13 @@ email:
 facebook:       'https://www.facebook.com/hua.wang.71'
 flickr:
 github:         'https://github.com/aemooooon'
-gplus:          'https://plus.google.com/100425464897246255887/'
+#gplus:          'https://plus.google.com/100425464897246255887/'
 instagram:      'https://www.instagram.com/aemooooon/'
 pinterest:
 linkedin:   
 rss:
-stackoverflow:  'http://stackoverflow.com/users/185655/abdel-raoof'
-twitter:        'https://twitter.com/olakara'
+#stackoverflow:  'http://stackoverflow.com/users/185655/abdel-raoof'
+#twitter:        'https://twitter.com/olakara'
 
 # Google Analytics
 gahandler: 'UA-52149651-1'
