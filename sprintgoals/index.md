@@ -140,4 +140,48 @@ We have show all Sprint 3 working to Paul, and talk about some features need to 
 So all of ablow requirements are this Sprint golas. I made the all of stuff to User stories and put it into Kanban borad, make sure each of our team members can take it.
 
 ### Technical proficiency
+About add search features to our project, I was considering three way to implement it.
+1. Add a new controller named SearchController, put search form on my view pages such as list of trackings. When user type keyword to the form and click Search button, the SearchController will grab the data to its view page.
+2. No more additional page to add, put search from on trackings page and grab data on trackings controller  and show query result still on view page which is trackings list page.
+3. It's similar method 2, the only different is when user click the button without page refresh instead of use AJAX to interact back end controller.
+
+I was try to use the first one, but some werid problems I haven't solve and also talk to Martin the best way is the second one as he said. So here I just list some key point:
+
 ### Agile-ness
+As we meeting decision, I have took two user stories in this stage, the one is Search features, other one is DeployOntoServer. And also I will do some change on trickings view such as dropdown list on the add new tracks page.<br>
+The index route of trackingsController below, just check the user whether click the button or not, and return the both way might be result.
+```php\
+use Illuminate\Http\Request;
+use Illuminate\Validation\Rule;
+use App\trackings;
+use DB;
+use App\Inventory;
+
+public function index(Request $request)
+    {
+        $k=$request->input('k');
+        
+        if($k==""){
+            $trackings = trackings::all();
+        }
+        else{
+            $trackings = trackings::where('location','LIKE','%'.$k.'%')->orWhere('person','LIKE','%'.$k.'%')->get();
+        }
+        
+        // Here we need check if the query result is empty, how show message to view page??? 2019-05-02 by aemooooon
+        // if(!count($trackings)){
+        //     return view ('trackings.index')->withMessage('No Details found. Try to search again !');
+        // }
+		return view('trackings.index',compact('trackings'));
+    }
+```
+
+Form tags in view of trackings:
+```php
+<form action="{{url('/trackings')}}" method="GET">
+    <div class="input-group">
+        <input type="text" class="form-control" name="k" placeholder="Search item"> 
+            <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+</form>
+```
