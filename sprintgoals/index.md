@@ -75,6 +75,47 @@ Route::resource('modelnames', 'ModelNameController');
 List route
 > php artisan route:list
 
+Create View
+just put all view page under the resources folder:
+```bash
+resources
+├── js
+│   ├── app.js
+│   ├── bootstrap.js
+│   └── components
+│       └── ExampleComponent.vue
+├── lang
+│   └── en
+│       ├── auth.php
+│       ├── pagination.php
+│       ├── passwords.php
+│       └── validation.php
+├── sass
+│   ├── app.scss
+│   └── _variables.scss
+└── views
+    ├── css
+    │   ├── bootstrap.css
+    │   └── style.css
+    ├── inventories
+    │   ├── create.blade.php
+    │   ├── edit.blade.php
+    │   └── index.blade.php
+    ├── layout.blade.php
+    ├── locations
+    │   ├── create.blade.php
+    │   ├── edit.blade.php
+    │   └── index.blade.php
+    ├── people
+    │   ├── create.blade.php
+    │   ├── edit.blade.php
+    │   └── index.blade.php
+    ├── trackings
+    │   ├── create.blade.php
+    │   ├── edit.blade.php
+    │   └── index.blade.php
+    └── welcome.blade.php
+```
 
 ### Agile-ness
 In the first Sprint, our team set up a goals which are finish four User stories below:
