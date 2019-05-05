@@ -225,6 +225,52 @@ Form tags in view of trackings:
 </form>
 ```
 
+return mutiple dataset/objects to view in controller
+```php
+    public function create()
+    {
+        $inventories=Inventory::all();
+        $locations=Location::all();
+        $pss=People::all();
+
+        return view('trackings.create', compact('inventories', 'locations', 'pss'));
+    }
+```
+
+validate dropdown list
+```php
+        $request->validate([
+        'productID'=>[
+            'required',
+            Rule::notIn(['0']),
+        ],
+        'location'=> [
+            'required',
+            Rule::notIn(['0']),
+        ],
+        'person' => [
+            'required',
+            Rule::notIn(['0']),
+        ],
+		'amount' => 'required',
+		'dateMoved' => 'required'
+      ]); 
+```
+
+dropdown list in view
+```html
+       <div class="form-group">
+          @csrf
+          <label for="ProductID">Equipment:</label>
+              <select class="form-control m-bot15" name="productID">
+              <option value="0">Select Equipment</option>
+                  @foreach($inventories as $inventory)
+                      <option value="{{ $inventory->id }}">{{ $inventory->name }}</option>
+                  @endforeach
+              </select>
+          </div>
+```
+
 ### Agile-ness
 As the decision of meeting, I have took two user stories in this stage, the one is Search features, other one is DeployOntoServer. And also I will do some change on trickings view such as dropdown list on the add new tracks page.<br>
 
