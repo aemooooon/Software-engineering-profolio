@@ -129,6 +129,8 @@ In the first Sprint, our team set up a goals which are finish four User stories 
 
 ## Sprint 2
 ### Professional practices
+<img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0319-1.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
+<img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0319-2.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
 ### Technical proficiency
 In this Sprint, when I done all new features and deploy on server, a error display below:
 ```bash
@@ -167,6 +169,8 @@ Schema::drop('trackings')
 
 ## Sprint 3
 ### Professional practices
+<img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0404-1.jpg?raw=true" alt="Sprint 3 meeting" style="margin: 20px;" /><br>
+<img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0404-2.jpg?raw=true" alt="Sprint 3 meeting" style="margin: 20px;" /><br>
 ### Technical proficiency
 #### About conflicts
 In normally, when we done a new features, we usually create a pull request on GitHub and wait the group someone else to merge it. But there is a very special situation which is some unknown reason we can not do that. we can not use online tools to merge, system said that "This branch has conflicts that must be resolved", but the Resolve conflicts button is not available just like picture below:
@@ -194,8 +198,9 @@ We have show all Sprint 3 working to Paul, and talk about some features need to 
 * Customer want to know how long the tracking equipment has been taken whcih is borrow time and return time needed.
 * In tracking page, Customer wish see the borrow button instead of edit button.
 * In tracking page, Customer likes to search item, makes his working more easy.
-So all of ablow requirements are this Sprint golas. I made the all of stuff to User stories and put it into Kanban borad, make sure each of our team members can take it.
-
+So all of ablow requirements are this Sprint golas. I made the all of stuff to User stories and put it into Kanban borad, make sure each of our team members can take it.<br>
+<img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0430-1.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
+<img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0430-2.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
 ### Technical proficiency
 About add search features to our project, I was considering three way to implement it.
 1. Add a new controller named SearchController, put search form on my view pages such as list of trackings. When user type keyword to the form and click Search button, the SearchController will grab the data to its view page.
