@@ -177,8 +177,7 @@ git pull origin master
 git merge branchname
 ```
 then we will get the source code file wiht some <<<<<<<<<< code >>>>>>>>>>>>>>>>>> blocks. And that might be two group members take a sit together and merge new features by manually.
-<img src="
-https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/merge1.jpg?raw=true" alt="merge" style="margin: 20px;" />
+<img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/merge1.jpg?raw=true" alt="merge" style="margin: 20px;" />
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/merge2.jpg?raw=true" alt="merge" style="margin: 20px;" />
 
 ### Agile-ness
