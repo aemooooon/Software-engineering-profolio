@@ -27,5 +27,6 @@ We are "wecantthinkofaname" team group which are five people in. All fo us have 
 	</div>
 </section>
 <hr/>
+<br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/groupmembers.jpg?raw=true" alt="conflicts" style="margin: 20px;" />
 <small>All five of our group members with our customer Paul(right 1)</small>
