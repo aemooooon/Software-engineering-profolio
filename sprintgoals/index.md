@@ -132,7 +132,9 @@ In the first Sprint, our team set up a goals which are finish four User stories 
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0319-1.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0319-2.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
 ### Technical proficiency
-In this Sprint, when I done all new features and deploy on server, a error display below:
+We get a new user story from our customer Paul which is "As a system admin i want information entered into the application to be saved there once page has been refreshed.", it is interestingly that lecture Martin just tell us a solve way like below. I have talk to Stefi a lot of thing about that problem. but there was no reslut to figure out. So just keep record this here. I feel like that is a little bit special.<br>
+<img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/IMG_20190410_164510.jpg?raw=true" alt="keep onl information" style="margin: 20px;" /><br>
+In addtional, when I done all new features and deploy on server, a error display below:
 ```bash
 Migrating: 2019_04_10_040233_create_trackings_table
 
