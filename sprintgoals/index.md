@@ -166,6 +166,10 @@ Schema::drop('trackings')
 ## Sprint 3
 ### Professional practices
 ### Technical proficiency
+#### About conflicts
+In normally, when we done a new features, we usually create a pull request on GitHub and wait the group someone else to merge it. But there is a very special situation which is some reason we can not do that. we can not use online tools to merge, system said that "This branch has conflicts that must be resolved", but the Resolve conflicts button is not available just like picture below:
+<img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/conflict.jpg?raw=true" alt="conflicts" style="margin: 20px;" />
+
 ### Agile-ness
 
 ## Sprint 4
