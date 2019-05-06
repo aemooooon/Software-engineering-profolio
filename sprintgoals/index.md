@@ -15,12 +15,12 @@ Your portfolio will need to demonstrate sufficient commitment to making appropri
 
 ## Sprint 1
 ### Professional practices
-I communicated with my team members well, we created Facebook Messager and also use GitHub project tools. The only problems was I didn't considered talk to our customer in the beginning of Sprint 1(the picture below took by after we start the Sprint 1).
+I communicated with my team members well, we created Facebook Messager and also use GitHub project tools. The only problems was I didn't considered talk to our customer in the beginning of Sprint 1(the picture below took by after we start the Sprint 1).<br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/groupmembers.jpg?raw=true" alt="group meeting with customer first time" style="margin: 20px;" />
 ### Technical proficiency
 In that time, the technical thing is Laravel framework stuff. I learnd a lot about MVC conception, and how to create Model, view, Controller under the Laravel framework.
 **MVC** is acronym of Model, View, Controller which represent the new design pattern in Web development industry. And Laravel framework is one of PHP framework can go quickly create MVC application.<br>
-<img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/IMG_20190227_164259.jpg?raw=true" alt="what the MVC is" style="margin: 20px;" />
+<img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/IMG_20190227_164259.jpg?raw=true" alt="what the MVC is" style="margin: 20px;" /><br>
 We use MAMP stack to run our web application, and also use composer to manage php Laravel dependencies. So in OP room computer, I need install composer and direct to the php.exe everytime, because these computers does have recover function  when them restart. The only prepare things I need do each time:<br>
 * Edit the .env file about database connection configuration to local MAMP database.
 * Point webserver to our stocks public folder in the preferences of MAMP stack.
