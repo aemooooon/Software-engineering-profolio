@@ -15,7 +15,7 @@ Your portfolio will need to demonstrate sufficient commitment to making appropri
 
 ## Sprint 1
 ### Professional practices
-I communicated with my team members well, we created Facebook Messager and also use GitHub project tools. The only problems was I didn't considered talk to our customer in the beginning of Sprint 1(the picture below took by after we start the Sprint 1).<br>
+I communicated with my team members well, everyone happy to join together as a team, we created Facebook Messager and also use GitHub project tools. The only problems were I didn't realize that we should talk to our customer at the beginning of Sprint 1(the picture below took by after we start the Sprint 1). To be honest I do not even know what exactly the Sprint was in this stage.<br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/groupmembers.jpg?raw=true" alt="group meeting with customer first time" style="margin: 20px;" />
 ### Technical proficiency
 In that time, the technical thing is Laravel framework stuff. I learnd a lot about MVC conception, and how to create Model, view, Controller under the Laravel framework.
