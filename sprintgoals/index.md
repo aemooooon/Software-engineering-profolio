@@ -122,7 +122,7 @@ resources
 ### Agile-ness
 
 #### INITIAL GOAL
-In the first Sprint, our team set up a goals which are finish four User stories below:
+> In the first Sprint, our team set up a goals which are finish four User stories below:
 * Add new equipment
 * Delete Item
 * Edit Item
