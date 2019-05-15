@@ -135,13 +135,13 @@ resources
 > That is a basic CRUD working on equipment model. we need at least four pages to show equipment list, could be adding new equipment, delete a exists equipment, could be updated a exists equipment. Also, hopefully do equipment tracking features.
 
 #### A
-> I have done web1, web2 in Otago Polyte, and also I had a couple of years experience on web development even that was old web development technology. Not to mention this time our team will work together, so I am confident I can achieve these goals.
+> I have done web1, web2 in Otago Polyte, and also I had a couple of years experience on web development even that was old web development technology. Not to mention this time our team will work together, so I am confident I can achieve these goals. Also that will be our first milestone.
 
 #### R
 > Rob has mentioned the keywords of this project is inventory tracking. So all of the above goals are core functionality. its be must do.
 
 #### T
-> In terms of Time-Bound, this is a two-week period of the Sprint. But I considered we should do that as soon as possible, because there are some unpredictable things that always happen, we must leave our own time to deal with it.
+> In terms of Time-Bound, this is a two-week period of the Sprint which means we will complete these task within two weeks. But I considered we should do that as soon as possible, because there are some unpredictable things that always happen, we must leave our own time to deal with it.
 
 
 
