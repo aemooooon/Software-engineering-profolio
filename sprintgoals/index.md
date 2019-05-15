@@ -125,6 +125,17 @@ In the first Sprint, our team set up a goals which are finish four User stories 
 * Delete Item
 * Edit Item
 * Tracking Equipment
+#### S
+Rob has described the basic project requirements on the class, and our team according to our current knowledge decide set up the above goals. Since all of us do not familiar Laravel, so we are going to make this together on room 201.
+#### M
+That is a basci CRUD working on equipment model. we need at least four pages to show equipment list, could be add new equipment, delete a exists equipment, could be updated a exists equipment. Also holpfully do equipment tracking features.
+#### A
+I have done web1, web2 in Otago Polyte, and also I had a couple of years experience on web development even that was old web development technology. Not to mention this time our team will work together, so I am confident I can achieve these goals.
+#### R
+Rob has mentioned the keywords of this project is inventory tracking. So all of the above goals are core functionality. its be must do.
+#### T
+In terms of Time-Bound, this is a two-week period of the Sprint. But I considered we should do that as soon as possible, because there are some unpredictable things that always happen, we must leave our own time to deal with it.
+
 
 
 ## Sprint 2
