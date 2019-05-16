@@ -252,7 +252,7 @@ then we will get the source code file wiht some <<<<<<<<<< code >>>>>>>>>>>>>>>>
 > In this stage, I will make changing about ERD module. (update)This time we encountered an unforeseen problem, that is the merger conflict occurred, unable to request the merger on GitHub online tools. But finally, we solved the problem with the help of the Lecturer Elise.
 
 #### S
-> As I mentioned before, the of the user stories is equipment tracking, and the key point is amounts. There is some number I put it to the database, but some other number I need to calculate by programming code. For example, there is 100 number of keyboard get to inventory stocks, I put the 100 as a field to the database one of the table. If someone borrows out 10 number of them. I will add a record to the tracking table, at the same time, I will do a calculation to update inventory stocks table amounts.
+> As I mentioned before, the one of the user story is equipment tracking, and the key point is amounts. There is some number I put it to the database, but some other number I need to calculate by programming code. For example, there is 100 number of keyboard get to inventory stocks, I put the 100 as a field to the database one of the table. If someone borrows out 10 number of them. I will add a record to the tracking table, at the same time, I will do a calculation to update inventory stocks table amounts.
 
 #### M
 > That working just like change our model structure, its easier than create all-new model, but need be careful because change model is another way different to add a new one.
@@ -279,6 +279,13 @@ We have show all Sprint 3 working to Paul, and talk about some features need to 
 So all of ablow requirements are this Sprint golas. I made the all of stuff to User stories and put it into Kanban borad, make sure each of our team members can take it.<br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0430-1.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0430-2.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
+
+At the middle of Sprint 4, We've made meeting second time with customer Paul and each other.<br>
+<img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0509-1.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
+<img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0509-2.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
+<img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0509-4.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
+
+
 ### Technical proficiency
 About add search features to our project, I was considering three way to implement it.
 1. Add a new controller named SearchController, put search form on my view pages such as list of trackings. When user type keyword to the form and click Search button, the SearchController will grab the data to its view page.
