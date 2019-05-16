@@ -9,6 +9,7 @@ Create a section of your portfolio in which you outline the impact of Agile mani
 Include specific examples from the project work you have done.
 Your portfolio must outline the impact of the Agile methodology on the project, including examples of the application of agile principles, Scrum framework or other tools to manage the project’s ability to meet the users’ needs in a professional and ethical way.
 
+```
 # Agile Manifesto
 We are uncovering better ways of developing
 software by doing it and helping others do it.
@@ -23,6 +24,7 @@ Through this work we have come to value:<br>
 **客户合作** 高于 合同谈判<br>
 **Responding to change** over following a plan<br>
 **响应变化** 高于 遵循计划<br>
+```
 
 That is, while there is value in the items on the right, we value the items on the left more.<br>
 也就是说，尽管右项有其价值，我们更重视左项的价值。
