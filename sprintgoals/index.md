@@ -435,7 +435,10 @@ phpunit
 ### Agile-ness
 
 #### INITIAL GOAL
-> 
+> The user stories and task from Kanban board:
+* Dropdown list (as a user I want the system easy to use, like when I add new tracking, I can just click dropdown list to choose my option value rather than type them.)
+* Search (As a lecturer i want to be able to search through application to see the status of items and what is available.)
+
 
 #### S
 > Customer Paul said that they want to a search feature because there are so many items that could not show all of them on one page. And also in some operation interface would be easy such as navigation, HTML form elements Drop down list.
