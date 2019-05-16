@@ -5,6 +5,7 @@ description: Sprint Goals
 theme: purple
 ---
 
+<hr>
 ## Introduction
 Hello world!
 
