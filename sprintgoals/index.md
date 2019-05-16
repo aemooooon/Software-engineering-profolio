@@ -147,6 +147,7 @@ resources
 
 ## Sprint 2
 ### Professional practices
+In this Sprint 2, I still communicate as always to my team members. Since I am poor English skills so I always keep the motivation to this area just make sure I am not missing anything I need to know to do. And this time I summed up the Sprint 1, I(we) first communicated deeply with our customers who Paul, expressed our thoughts, and listened to Paul's ideas and requirements. This meeting greatly simplified the complexity of the User stories, let our goals become clearer.
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0319-1.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0319-2.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
 ### Technical proficiency
@@ -186,6 +187,30 @@ Schema::drop('trackings')
 ```
 
 ### Agile-ness
+
+#### INITIAL GOAL
+> In the second Sprint, our team set up a goals which are finish five User stories below:
+* More Indepth Items Descriptions
+* Display
+* Tracking Equipment(Its left over from the first Sprint)
+* DeployOntoServer
+* Raw numbers of stock
+
+#### S
+> Based on the work we completed last Sprint and from our customer Paus's requirements. We should keep the projected increment, in this stage, we still working together in the common room after hours.
+
+#### M
+> we will make the main page to display all exists equipment, also could click to view each specific equipment detail. In the final will deploy the app to the MariaDB server, just to show our customers the work of each stage, hopefully the wonderful experience be given.
+
+#### A
+> I can do this job alone, but for the average division of labor, I decided to do it together because the task is not particularly heavy.
+
+#### R
+> The core features are display equipment information. And deploy to server is our team work. Lecuter has been show us the tutorial which is how to deploy.
+
+#### T
+> In terms of Time-Bound, this is still a two-week period of the Sprint which means we will complete these task within two weeks.
+
 
 ## Sprint 3
 ### Professional practices
