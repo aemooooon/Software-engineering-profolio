@@ -12,6 +12,19 @@
     margin: 0 auto;
 }
 
+img{
+    box-shadow: var(--shadow);
+    min-width: 220px;
+    margin: 0.625rem;
+    border: #f9f9f9 solid 5px;
+    transition: all 0.7s;
+}
+
+img:hover{
+    border: #f9f9f9 solid 5px;
+    transform: scale(1.2);
+}
+
 @media (min-width: 768px) {
   .sidebar {
     position: fixed;
