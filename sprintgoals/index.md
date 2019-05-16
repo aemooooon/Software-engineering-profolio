@@ -214,6 +214,8 @@ Schema::drop('trackings')
 
 ## Sprint 3
 ### Professional practices
+In the beginning of Sprint 3, I took a meeting with some of the team members, also to our customer Paul. even though not everyone turns up. Clients Paul affirmed and encouraged our work in the previous stage and pointed out some details that need to be updated. I found our database struck get some problems and could not implements our equipment tracking especial on amounts. So we finally decided that is our working for now.
+<br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0404-1.jpg?raw=true" alt="Sprint 3 meeting" style="margin: 20px;" /><br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0404-2.jpg?raw=true" alt="Sprint 3 meeting" style="margin: 20px;" /><br>
 ### Technical proficiency
