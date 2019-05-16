@@ -443,6 +443,7 @@ phpunit
 > The user stories and task from Kanban board:
 <br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0510-2.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
+
 * Dropdown list (as a user I want the system easy to use, like when I add new tracking, I can just click dropdown list to choose my option value rather than type them.)
 * Search (As a lecturer i want to be able to search through application to see the status of items and what is available.)
 
