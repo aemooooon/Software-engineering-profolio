@@ -11,11 +11,16 @@ Your portfolio must outline the impact of the Agile methodology on the project, 
 
 # Agile Manifesto
 **Individuals and interactions** over processes and tools<br>
+**个体和互动** 高于 流程和工具<br>
 **Working software** over comprehensive documentation<br>
+**工作的软件** 高于 详尽的文档<br>
 **Customer collaboration** over contract negotiation<br>
+**客户合作** 高于 合同谈判<br>
 **Responding to change** over following a plan<br>
+**响应变化** 高于 遵循计划<br>
 
-That is, while there is value in the items on the right, we value the items on the left more.
+That is, while there is value in the items on the right, we value the items on the left more.<br>
+也就是说，尽管右项有其价值，我们更重视左项的价值。
 
 # Agile Principles
 1. Our highest priority is to satisfy the customer
