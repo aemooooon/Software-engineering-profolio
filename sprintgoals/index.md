@@ -465,6 +465,9 @@ I want to be able to complete the task within two weeks of this Sprint. To maint
 
 ## Sprint 5
 ### Professional practices
+In the beginning of this Sprint 5, also might be the last Sprint, but I haven't made well. I had planned to meet with our customer Paul this afternoon, and Stephen had already made an appointment by mail yesterday. But today the weather is particularly bad, the wind is getting more rain, I can't get on time since I catch a cold with a fever. Communicating through our Messager, it seems that most people can't participate. This is a very bad start. In principle, I should not be able to meet with customers because of my fault. I am so sorry to everyone.
+<br>
+<img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/Messager.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
 
 ### Technical proficiency
 
