@@ -277,6 +277,7 @@ We have show all Sprint 3 working to Paul, and talk about some features need to 
 * In tracking page, Customer wish see the borrow button instead of edit button.
 * In tracking page, Customer likes to search item, makes his working more easy.
 So all of ablow requirements are this Sprint golas. I made the all of stuff to User stories and put it into Kanban borad, make sure each of our team members can take it.<br>
+
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0430-1.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0430-2.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
 
