@@ -9,15 +9,26 @@ theme: purple
 
 Table of Content
 * [Sprint 1](#sprint-1)
-
+  * [Professional practices](professional-practices)
+  * [Technical proficiency](technical-proficiency)
+  * [Agile ness][agile-ness]
 * [Sprint 2](#sprint-2)
-
+  * [Professional practices](professional-practices)
+  * [Technical proficiency](technical-proficiency)
+  * [Agile ness][agile-ness]
 * [Sprint 3](#sprint-3)
-
+  * [Professional practices](professional-practices)
+  * [Technical proficiency](technical-proficiency)
+  * [Agile ness][agile-ness]
 * [Sprint 4](#sprint-4)
-
+  * [Professional practices](professional-practices)
+  * [Technical proficiency](technical-proficiency)
+  * [Agile ness][agile-ness]
 * [Sprint 5](#sprint-5)
-
+  * [Professional practices](professional-practices)
+  * [Technical proficiency](technical-proficiency)
+  * [Agile ness][agile-ness]
+  
 ## Sprint 1
 ### Professional practices
 I communicated with my team members well, everyone happy to join together as a team, we created Facebook Messager and also use GitHub project tools. The only problems were I didn't realize that we should talk to our customer at the beginning of Sprint 1(the picture below took by after we start the Sprint 1). To be honest I do not even know what exactly the Sprint was in this stage.<br>
