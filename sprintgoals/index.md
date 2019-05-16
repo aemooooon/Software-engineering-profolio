@@ -10,7 +10,8 @@ theme: purple
 ## Introduction
 Hello world!
 
-  
+<hr>
+
 ## Sprint 1
 ### Professional practices
 I communicated with my team members well, everyone happy to join together as a team, we created Facebook Messager and also use GitHub project tools. The only problems were I didn't realize that we should talk to our customer at the beginning of Sprint 1(the picture below took by after we start the Sprint 1). To be honest I do not even know what exactly the Sprint was in this stage.<br>
@@ -142,6 +143,7 @@ resources
 > In terms of Time-Bound, this is a two-week period of the Sprint which means we will complete these task within two weeks. But I considered we should do that as soon as possible, because there are some unpredictable things that always happen, we must leave our own time to deal with it.
 
 
+<hr>
 
 ## Sprint 2
 ### Professional practices
@@ -209,6 +211,7 @@ Schema::drop('trackings')
 #### T
 > In terms of Time-Bound, this is still a two-week period of the Sprint which means we will complete these task within two weeks.
 
+<hr>
 
 ## Sprint 3
 ### Professional practices
@@ -263,6 +266,8 @@ then we will get the source code file wiht some <<<<<<<<<< code >>>>>>>>>>>>>>>>
 
 #### T
 > In this particular time, I want to spend no more one week to do this part, because I want to make some flexiable time to considering some other problems such as merge conflict solution.
+
+<hr>
 
 ## Sprint 4
 ### Professional practices
@@ -456,4 +461,11 @@ phpunit
 > This time the task is the most tangible content since the beginning of the project. It is a challenge for me. At the same time, other members of the team work with me on the same controller and view files, so there may be many contradictions and conflicts. 
 I want to be able to complete the task within two weeks of this Sprint. To maintain real-time communication with other members, if struggling on anything, or any progress, I should to communicate with the customer, so as not to take a detour.
 
+<hr>
 
+## Sprint 5
+### Professional practices
+
+### Technical proficiency
+
+### Agile-ness
