@@ -227,12 +227,21 @@ In the beginning of Sprint 3, I took a meeting with some of the team members, al
 In normally, when we done a new features, we usually create a pull request on GitHub and wait the group someone else to merge it. But there is a very special situation which is some unknown reason we can not do that. we can not use online tools to merge, system said that "This branch has conflicts that must be resolved", but the Resolve conflicts button is not available just like picture below:
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/conflict.jpg?raw=true" alt="conflicts" style="margin: 20px;" />
 
-In that time, we need use GitHub commandline tools which is GitBash, the command just like this:
+In that time, we need use GitHub commandline tools which is GitBash, the solution just like this(make sure under the SSH connection):<br>
+Step 1: From your project repository, bring in the changes and test.
 ```bash
 git fetch origin
-git pull origin master
-git merge branchname
+git checkout -b RetainInput origin/RetainInput
+git merge master
 ```
+
+Step 2: Merge the changes and update on GitHub.
+```bash
+git checkout master
+git merge --no-ff RetainInput
+git push origin master
+```
+
 then we will get the source code file wiht some <<<<<<<<<< code >>>>>>>>>>>>>>>>>> blocks. And that might be two group members take a sit together and merge new features by manually.
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/merge1.jpg?raw=true" alt="merge" style="margin: 20px;" />
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/merge2.jpg?raw=true" alt="merge" style="margin: 20px;" />
