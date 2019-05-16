@@ -5,7 +5,8 @@ description: Sprint Goals
 theme: purple
 ---
 
-# Sprint Goals
+# Introduction
+Hello world!
 
   
 ## Sprint 1
