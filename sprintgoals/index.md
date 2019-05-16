@@ -281,6 +281,7 @@ So all of ablow requirements are this Sprint golas. I made the all of stuff to U
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0430-2.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
 
 At the middle of Sprint 4, We've made meeting second time with customer Paul and each other.<br>
+
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0509-1.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0509-2.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0509-4.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
