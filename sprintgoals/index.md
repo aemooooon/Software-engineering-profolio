@@ -214,14 +214,14 @@ Schema::drop('trackings')
 
 ## Sprint 3
 ### Professional practices
-In the beginning of Sprint 3, I took a meeting with some of the team members, also to our customer Paul. even though not everyone turns up. Clients Paul affirmed and encouraged our work in the previous stage and pointed out some details that need to be updated. I found our database struck get some problems and could not implements our equipment tracking especial on amounts. So we finally decided that is our working for now.
-
-<br>
+In the beginning of Sprint 3, I took a meeting with some of the team members, also to our customer Paul. even though not everyone turns up. Clients Paul affirmed and encouraged our work in the previous stage and pointed out some details that need to be updated. I found our database struck get some problems and could not implements our equipment tracking especial on amounts. So we finally decided that is our working for now.<br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/IMG_20190403_164159.jpg?raw=true" alt="Sprint 3 meeting" style="margin: 20px;" /><br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0404-1.jpg?raw=true" alt="Sprint 3 meeting" style="margin: 20px;" /><br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/IMG_20190404_132637.jpg?raw=true" alt="Sprint 3 meeting" style="margin: 20px;" /><br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0404-2.jpg?raw=true" alt="Sprint 3 meeting" style="margin: 20px;" /><br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/IMG_20190403_164212.jpg?raw=true" alt="Sprint 3 meeting" style="margin: 20px;" /><br>
+
+
 ### Technical proficiency
 #### About conflicts
 In normally, when we done a new features, we usually create a pull request on GitHub and wait the group someone else to merge it. But there is a very special situation which is some unknown reason we can not do that. we can not use online tools to merge, system said that "This branch has conflicts that must be resolved", but the Resolve conflicts button is not available just like picture below:
