@@ -382,22 +382,22 @@ dropdown list in view
 ### Agile-ness
 
 #### INITIAL GOAL
-> In this stage, I will make changing about ERD module. (update)This time we encountered an unforeseen problem, that is the merger conflict occurred, unable to request the merger on GitHub online tools. But finally, we solved the problem with the help of the Lecturer Elise.
+> 
 
 #### S
-> As I mentioned before, the one of the user story is equipment tracking, and the key point is amounts. There is some number I put it to the database, but some other number I need to calculate by programming code. For example, there is 100 number of keyboard get to inventory stocks, I put the 100 as a field to the database one of the table. If someone borrows out 10 number of them. I will add a record to the tracking table, at the same time, I will do a calculation to update inventory stocks table amounts.
+> Customer Paul said that they want to a search feature because there are so many items that could not show all of them on one page. And also in some operation interface would be easy such as navigation, HTML form elements Drop down list.
 
 #### M
-> That working just like change our model structure, its easier than create all-new model, but need be careful because change model is another way different to add a new one.
+> I would do some change in our project. One thing is when customers add new item especially tracking detail, then can via drop down list to choose item model, borrower location and stakeholder name. Another thing is to add search form to our tracking page, make sure customers can quickly find the equipment they want.
 
 #### A
-> I need to change the data structure as my part of work. At the same time, keep in time communication with the team member.
+> I would use the Bootstrap CSS framework to make sure all GUI looks better. And I will learn how to make multiple tables join together in Laravel, as well as the search result from multiple tables by the query. It involves how to transfer multiple data sets from the Controller to the View.
 
 #### R
-> Adjust the data model make sure the equipment could be tracked at any time, any place and who is utilizing.
+> These requirements are the basic requirements of the customer and the work assigned only to me. For a real product, this is also very important, very basic functionality. So no matter what, it must be done through study and research.
 
 #### T
+> This time the task is the most tangible content since the beginning of the project. It is a challenge for me. At the same time, other members of the team work with me on the same controller and view files, so there may be many contradictions and conflicts. 
+I want to be able to complete the task within two weeks of this Sprint. To maintain real-time communication with other members, if struggling on anything, or any progress, I should to communicate with the customer, so as not to take a detour.
 
-> In this particular time, I want to spend no more one week to do this part, because I want to make some flexiable time to considering some other problems such as merge conflict solution.
-As the decision of meeting, I have took two user stories in this stage, the one is Search features, other one is DeployOntoServer. And also I will do some change on trickings view such as dropdown list on the add new tracks page.<br>
 
