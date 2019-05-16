@@ -382,7 +382,9 @@ dropdown list in view
 HTTP Testing
 1. Make a new HTTP Test `php artisan make:test HTTPTest`
 2. A sample of code(HTTPTest.php, web.php)
+
 ```php
+
 <?php
 
 namespace Tests\Feature;
