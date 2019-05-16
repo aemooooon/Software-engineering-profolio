@@ -379,6 +379,59 @@ dropdown list in view
           </div>
 ```
 
+HTTP Testing
+1. Make a new HTTP Test `php artisan make:test HTTPTest`
+2. A sample of code(HTTPTest.php, web.php)
+```php
+<?php
+
+namespace Tests\Feature;
+
+use Tests\TestCase;
+use Illuminate\Foundation\Testing\WithFaker;
+use Illuminate\Foundation\Testing\RefreshDatabase;
+
+class HTTPTest extends TestCase
+{
+    /**
+     * A basic feature test example.
+     *
+     * @return void
+     */
+    public function testExample()
+    {
+        $response = $this->get('/getdata');
+        $response->assertJson(['Group'=>'Wecantthinkofaname']);
+    }
+
+    public function testView()
+    {
+      $response = $this->get('/');
+
+      $response->assertViewIs('index.index');
+    }
+
+    public function testStatusCode()
+    {
+      $response = $this->get('/trackings');
+
+      $response->assertStatus(200);
+    }
+}
+
+//////////////////////////////////////////////////////
+Route::get('/getdata', function(){
+    return response()->json(['Group'=>'Wecantthinkofaname']);
+  });
+```
+3. Run teh test command
+```bash
+.vendor/bin/phpunit
+or
+phpunit
+```
+
+
 ### Agile-ness
 
 #### INITIAL GOAL
