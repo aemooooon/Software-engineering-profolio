@@ -271,7 +271,7 @@ then we will get the source code file wiht some <<<<<<<<<< code >>>>>>>>>>>>>>>>
 Today(2019-04-30) we have a meeting with our customer Paul and also we have greeting with our team members.
 (Picture by Yandong here)
 We have show all Sprint 3 working to Paul, and talk about some features need to update and some new features we need to catch up. I list the user stories below:
-* customer want to Dashboard functionility on home page, just show some brief information like how many stocks do they have and how many equipment ouf of a number.
+* Customer want to Dashboard functionility on home page, just show some brief information like how many stocks do they have and how many equipment ouf of a number.
 * Customer want to the system has authority functionility rather than every one else can access the page do any changing.
 * Customer want to know how long the tracking equipment has been taken whcih is borrow time and return time needed.
 * In tracking page, Customer wish see the borrow button instead of edit button.
@@ -380,5 +380,24 @@ dropdown list in view
 ```
 
 ### Agile-ness
+
+#### INITIAL GOAL
+> In this stage, I will make changing about ERD module. (update)This time we encountered an unforeseen problem, that is the merger conflict occurred, unable to request the merger on GitHub online tools. But finally, we solved the problem with the help of the Lecturer Elise.
+
+#### S
+> As I mentioned before, the one of the user story is equipment tracking, and the key point is amounts. There is some number I put it to the database, but some other number I need to calculate by programming code. For example, there is 100 number of keyboard get to inventory stocks, I put the 100 as a field to the database one of the table. If someone borrows out 10 number of them. I will add a record to the tracking table, at the same time, I will do a calculation to update inventory stocks table amounts.
+
+#### M
+> That working just like change our model structure, its easier than create all-new model, but need be careful because change model is another way different to add a new one.
+
+#### A
+> I need to change the data structure as my part of work. At the same time, keep in time communication with the team member.
+
+#### R
+> Adjust the data model make sure the equipment could be tracked at any time, any place and who is utilizing.
+
+#### T
+
+> In this particular time, I want to spend no more one week to do this part, because I want to make some flexiable time to considering some other problems such as merge conflict solution.
 As the decision of meeting, I have took two user stories in this stage, the one is Search features, other one is DeployOntoServer. And also I will do some change on trickings view such as dropdown list on the add new tracks page.<br>
 
