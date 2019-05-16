@@ -224,7 +224,7 @@ In the beginning of Sprint 3, I took a meeting with some of the team members, al
 
 ### Technical proficiency
 #### About conflicts
-In normally, when we done a new features, we usually create a pull request on GitHub and wait the group someone else to merge it. But there is a very special situation which is some unknown reason we can not do that. we can not use online tools to merge, system said that "This branch has conflicts that must be resolved", but the Resolve conflicts button is not available just like picture below:
+In normally, when we done a new features, we usually create a pull request on GitHub and wait the group someone else to merge it. But there is a very special situation which is some unknown reason we can not do that. we can not use online tools to merge, system said that "This branch has conflicts that must be resolved", but the Resolve conflicts button is not available just like picture below:<br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/conflict.jpg?raw=true" alt="conflicts" style="margin: 20px;" />
 
 In that time, we need use GitHub commandline tools which is GitBash, the solution just like this(make sure under the SSH connection):<br>
