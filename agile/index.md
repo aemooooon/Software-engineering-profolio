@@ -10,6 +10,11 @@ Include specific examples from the project work you have done.
 Your portfolio must outline the impact of the Agile methodology on the project, including examples of the application of agile principles, Scrum framework or other tools to manage the project’s ability to meet the users’ needs in a professional and ethical way.
 
 # Agile Manifesto
+We are uncovering better ways of developing
+software by doing it and helping others do it.
+Through this work we have come to value:<br>
+我们一直在实践中探寻更好的软件开发方法，
+身体力行的同时也帮助他人。由此我们建立了如下价值观：<br>
 **Individuals and interactions** over processes and tools<br>
 **个体和互动** 高于 流程和工具<br>
 **Working software** over comprehensive documentation<br>
