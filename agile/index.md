@@ -24,7 +24,6 @@ Through this work we have come to value:<br>
 **客户合作** 高于 合同谈判<br>
 **Responding to change** over following a plan<br>
 **响应变化** 高于 遵循计划<br>
-
 That is, while there is value in the items on the right, we value the items on the left more.<br>
 也就是说，尽管右项有其价值，我们更重视左项的价值。
 
