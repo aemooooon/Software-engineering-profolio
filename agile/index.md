@@ -30,7 +30,7 @@ That is, while there is value in the items on the right, we value the items on t
 About...
 
 # Agile Principles
-1. Our highest priority is to satisfy the customer
+>1. Our highest priority is to satisfy the customer
 through early and continuous delivery
 of valuable software.<br>
 我们最重要的目标，是通过持续不断地
@@ -91,6 +91,10 @@ to become more effective, then tunes and adjusts
 its behavior accordingly.<br>
 团队定期地反思如何能提高成效，
 并依此调整自身的举止表现。
+
+
+about
+
 
 # Agile Sprint Velocity
 Velocity is a metric that predicts how much work an Agile software development team can successfully complete within a two-week sprint (or similar time-boxed period).
