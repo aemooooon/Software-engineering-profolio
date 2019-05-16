@@ -32,17 +32,17 @@ About...
 # Agile Principles
 >1. Our highest priority is to satisfy the customer
 through early and continuous delivery
-of valuable software.<br>
+of valuable software.
 我们最重要的目标，是通过持续不断地
 及早交付有价值的软件使客户满意。
 2. Welcome changing requirements, even late in 
 development. Agile processes harness change for 
-the customer's competitive advantage.<br>
+the customer's competitive advantage.
 欣然面对需求变化，即使在开发后期也一样。
 为了客户的竞争优势，敏捷过程掌控变化。
 3. Deliver working software frequently, from a 
 couple of weeks to a couple of months, with a 
-preference to the shorter timescale.<br>
+preference to the shorter timescale.
 经常地交付可工作的软件，
 相隔几星期或一两个月，倾向于采取较短的周期。
 4. Business people and developers must work 
