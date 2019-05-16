@@ -147,7 +147,7 @@ resources
 
 ## Sprint 2
 ### Professional practices
-In this Sprint 2, I still communicate as always to my team members. Since I am poor English skills so I always keep the motivation to this area just make sure I am not missing anything I need to know to do. And this time I summed up the Sprint 1, I(we) first communicated deeply with our customers who Paul, expressed our thoughts, and listened to Paul's ideas and requirements. This meeting greatly simplified the complexity of the User stories, let our goals become clearer.
+In this Sprint 2, I still communicate as always to my team members. Since I am poor English skills so I always keep the motivation to this area just make sure I am not missing anything I need to know to do. And this time I summed up the Sprint 1, I(we) first communicated deeply with our customers who Paul, expressed our thoughts, and listened to Paul's ideas and requirements. This meeting greatly simplified the complexity of the User stories, let our goals become clearer.<br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0319-1.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/0319-2.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
 ### Technical proficiency
