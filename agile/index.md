@@ -85,6 +85,8 @@ If literally translate Agile to Chinese is "敏捷", which means (action)quick a
 
 First of all, the number one of Agile manifesto stated that Individuals and interactions over processes and tools, which means compared with tools and processes, people are the core factor. The value of people and people directly interacting with each other is higher than the value of tools and processes. I think the software development industry is different from the traditional factory manufacturing industry. They emphasize tools and processes because they generate fixd stuff, do not need people creativity, and no frequent changes in demand. The software development needs change rapidly, and if you don't keep up with the customer's needs in time, it will waste the developer's time and cost. Therefore, we can communicate with customers in a timely manner, and quickly display short-item displayable products to customers to create value efficiently.
 
+I won't write my understanding of all the Agile Manifesto here. I think these manifesto are relative to the traditional waterfall development method, but in our team, I believe most of us don't know too much about the waterfall Development model, although I have had some years of waterfall development experience. I believe that the behavior of our group is as close as possible to the Agile Manifesto from the beginning of the project. For instance,
+
 
 # Agile Sprint Velocity
 Velocity is a metric that predicts how much work an Agile software development team can successfully complete within a two-week sprint (or similar time-boxed period).
