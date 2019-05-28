@@ -27,7 +27,6 @@ Through this work we have come to value:<br>
 That is, while there is value in the items on the right, we value the items on the left more.<br>
 也就是说，尽管右项有其价值，我们更重视左项的价值。
 
-About...
 
 # Agile Principles
 >1. Our highest priority is to satisfy the customer
@@ -82,7 +81,9 @@ its behavior accordingly.<br>
 并依此调整自身的举止表现。
 
 
-about
+I put the Agile Manifesto and Agile Principles reason here, just to see it every time when I am working on this page, to be more familiar with the understanding and mastering of Agile. 
+
+When I first listened to Martin talkabout Agile in class, I simply thought that Agile was just a sort of popular method of software development. But as I continude to learn and practice, and in the process of working with my team member, I found that Agile is not only a software development method.
 
 
 # Agile Sprint Velocity
