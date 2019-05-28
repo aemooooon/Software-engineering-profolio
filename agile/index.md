@@ -76,7 +76,7 @@ its behavior accordingly.<br>
 团队定期地反思如何能提高成效，
 并依此调整自身的举止表现。
 
-
+# My personal Agile evidence
 I put the Agile Manifesto and Agile Principles reason here, just to see it every time when I am working on this page, to be more familiar with the understanding and mastering of Agile. 
 
 When I first listened to Martin talk about Agile in class, I simply thought that Agile was just a sort of popular method of software development. But as I continude to learn and practice, and in the process of working with my team member, I found that Agile is not only a software development method. It is a collection of methodology that combine many theories and declarations. It is a value that allows software developers to implement these values in different ways from different aspect, in order to make software development faster and more efficient.
