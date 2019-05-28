@@ -5,10 +5,6 @@ description: Agile manifesto, principles and the impact of our project.
 theme: green
 ---
 
-Create a section of your portfolio in which you outline the impact of Agile manifesto, principles and tools on the professionalism, ethics and success of your project.
-Include specific examples from the project work you have done.
-Your portfolio must outline the impact of the Agile methodology on the project, including examples of the application of agile principles, Scrum framework or other tools to manage the project’s ability to meet the users’ needs in a professional and ethical way.
-
 
 # Agile Manifesto
 > We are uncovering better ways of developing
@@ -83,7 +79,11 @@ its behavior accordingly.<br>
 
 I put the Agile Manifesto and Agile Principles reason here, just to see it every time when I am working on this page, to be more familiar with the understanding and mastering of Agile. 
 
-When I first listened to Martin talkabout Agile in class, I simply thought that Agile was just a sort of popular method of software development. But as I continude to learn and practice, and in the process of working with my team member, I found that Agile is not only a software development method.
+When I first listened to Martin talk about Agile in class, I simply thought that Agile was just a sort of popular method of software development. But as I continude to learn and practice, and in the process of working with my team member, I found that Agile is not only a software development method. It is a collection of methodology that combine many theories and declarations. It is a value that allows software developers to implement these values in different ways from different aspect, in order to make software development faster and more efficient.
+
+If literally translate Agile to Chinese is "敏捷", which means (action)quick and sensitive, so literally we can see some clues. 
+
+First of all, the number one of Agile manifesto stated that Individuals and interactions over processes and tools, which means compared with tools and processes, people are the core factor. The value of people and people directly interacting with each other is higher than the value of tools and processes. I think the software development industry is different from the traditional factory manufacturing industry. They emphasize tools and processes because they generate fixd stuff, do not need people creativity, and no frequent changes in demand. The software development needs change rapidly, and if you don't keep up with the customer's needs in time, it will waste the developer's time and cost. Therefore, we can communicate with customers in a timely manner, and quickly display short-item displayable products to customers to create value efficiently.
 
 
 # Agile Sprint Velocity
