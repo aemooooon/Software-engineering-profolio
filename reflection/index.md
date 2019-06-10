@@ -9,12 +9,12 @@ theme: red
 # Sprint Three(4.3-5.1)
 # Sprint Four(5.1-5.15)
 # Sprint Five(5.15-5.29)
-write a reflection after each sprint that examines your personal contribution to that sprint.
+
+### Question templates
 * What did you do well?
 * What could you have done better?
 * What lessons did you learn?
 * What barriers did you encounter?
-Your portfolio must include regular reflection on your contribution to the management of the project, including your personal application of appropriate methodologies, workflows or tools, and identification of ways to improve ethical or professional conduct, during the course of each sprint.
 
 # Sprint 1
 1. At the first of Sprint, my communication with my team members was very smooth, and we are all very happy to be in a team. 
@@ -29,5 +29,9 @@ That's the module that we only complete a small number of independent functions 
 
 
 # Sprint 2
+1.
+2.
+3. At this Sprint, I learned the Scrum and GitHub Agile workflows, learned more about using the Kanban feature, and all user story avatars were assigned to each of our team members. Then we will change our state through our work to know that the final completion is complete and then the work is finished. At the same time, because we have completed some basic functions in the first phase, we also learned how to deploy our current work to our public server. The main purpose of this is to let our customers see it in real time. Go to our results at each Sprint and make comments and suggestions as well as the task requirements they need to modify. Technically, deployment is not that difficult, because almost everyone has completed Linux and MariaDB learning.
+4.
 # Sprint 3
 # Sprint 4
