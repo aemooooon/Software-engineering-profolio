@@ -29,7 +29,7 @@ That's the module that we only complete a small number of independent functions 
 
 
 # Sprint 2
-1.
+1.In the second Sprint, the best I did was to communicate with the customer. This time, I learned the bad experience I did last time. At the beginning of the Sprint, I met with the client Paul. I first summarized the work of the previous Sprint and proposed our next goal. Paul also pointed to the above. Both of the above aspects have been asked and verified. To ensure that our customers and our team have a unified goal, we are working hard to achieve the goal within a specified time, without making a mistake. I personally think this time is perfect communication.
 2.
 3. At this Sprint, I learned the Scrum and GitHub Agile workflows, learned more about using the Kanban feature, and all user story avatars were assigned to each of our team members. Then we will change our state through our work to know that the final completion is complete and then the work is finished. At the same time, because we have completed some basic functions in the first phase, we also learned how to deploy our current work to our public server. The main purpose of this is to let our customers see it in real time. Go to our results at each Sprint and make comments and suggestions as well as the task requirements they need to modify. Technically, deployment is not that difficult, because almost everyone has completed Linux and MariaDB learning.
 4.
