@@ -17,7 +17,7 @@ theme: red
 
 
 # Sprint 1
-> ##### What did you do well?
+> #### What did you do well?
 
 At the first of Sprint, my communication with my team members was very smooth, and we are all very happy to be in a team. 
 I talked a lot about each other. Everyone feels particularly energetic, we get hundred of power, hundred of motivation to waiting to do something big.
