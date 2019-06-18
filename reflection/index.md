@@ -116,8 +116,9 @@ In addition, the same problem with the Dropdown List problem, I need to take the
 
 > #### What barriers did you encounter?
 
-
-
+Regarding the barriers, I think there should be no barriers. 
+I have already said that this time is my own feeling of the best, but also the smoothest of all the work. No matter whether it is communication with the customer, the team, or the control of the Scrum process, and whether or not to follow the agile manifesto and the agile principles, there is no big problem. At the same time, the efficiency of the entire team is relatively high. 
+We basically all achieved the goals we set.
 
 
 # Sprint 5
