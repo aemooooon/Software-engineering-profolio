@@ -82,7 +82,7 @@ In this example, we not only have equipment items, we also need to save the quan
 
 > #### What barriers did you encounter?
 
-
+For me, there aren't too many technical challenges. But the obstacles still exist. For example, in this Sprint, I just worked very well in the first week. But in the coming period, due to the two weeks middle holiday, I spent too much time with my family and taking care of the children. So there is no one hundred percent to complete the assigned task. But I think this is also a no-brainer. After all, learning is not the whole of life. I can't do everything in perfection. I can only try to maintain this balance.
 
 # Sprint 4
 
