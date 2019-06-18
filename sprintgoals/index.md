@@ -493,4 +493,12 @@ In addition, there are a couple of problems such as not use try catch statement 
 
 So I think the main risk is about SQL Injection. It is the placement of malicious code in SQL statements, via web page input. So our project based on MySQL database, and also has a lot place that user input. So firstly we need considering about SQL Injection risk. When any User input think about use GET or POST way to send or request. And all SQL query statement use PHP prepared statement to filter invalid keywords relative the malicious code such the condition like `"or""=", or 1=1` or after the SELECT statement colon follow `;DROP TABLE inventories`. So these kinds of Injection will bring very serious consequences. Of course there have other way to avoid these attack in many different WEB technology.
 
+In terms of UX, I feel like that is really important things.
+
+> “No product is an island. A product is more than the product. It is a cohesive, integrated set of experiences. Think through all of the stages of a product or service – from initial intentions through final reflections, from first usage to help, service, and maintenance. Make them all work together seamlessly.”
+
+— Don Norman, inventor of the term “User Experience”
+
+
+
 ### Agile-ness
