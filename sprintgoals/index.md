@@ -473,5 +473,18 @@ In the beginning of this Sprint 5, also might be the last Sprint, but I haven't 
 <img src="https://github.com/SoftEnOP/soften-portfolio-aemooooon/blob/master/assets/img/Messager.jpg?raw=true" alt="Sprint 2 meeting" style="margin: 20px;" /><br>
 
 ### Technical proficiency
+In this Sprint, Martin and Elise tech us about Security and UX. And the Security wiht a example:
+```php
+What potential problems you see in the following code (there are at least three...):
+
+$uname=$_POST['uname'];
+$passwrd=$_POST['passwrd'];
+$query="select username, password from users where username='$uname' limit 0,1";
+$result=mysql_query($query);
+$row = mysql_fetch_row($result);
+if($row['password'] == $password) {... /* login successful */ ...}
+```
+
+I sumary the my opinion below.
 
 ### Agile-ness
