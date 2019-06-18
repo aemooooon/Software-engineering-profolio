@@ -139,23 +139,3 @@ We basically all achieved the goals we set.
 
 
 
-
-
-# Sprint 6
-
-> #### What did you do well?
-
-
-
-> #### What could you have done better?
-
-
-
-> #### What lessons did you learn?
-
-
-
-> #### What barriers did you encounter?
-
-
-
