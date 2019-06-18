@@ -61,7 +61,9 @@ Hey...
 
 > #### What did you do well?
 
+At Sprint 3, I have to say that communication is still the best part of what I do. Although at the beginning of the meeting with the customer, not everyone on the team was present, I still want the customer to report on the work of the previous Sprint, and get the recognition and encouragement from the customer, even though I use lame English. 
 
+At the same time, when I showed the function to the customer, I found that our equipment did not get effect tracking, because our database model ERD has problems, different operators and different types of equipment cannot be tracked, we need to put the data entity divided into multiple tables to achieve this, but also in line with the third normalization of the database.
 
 > #### What could you have done better?
 
