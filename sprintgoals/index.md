@@ -518,3 +518,9 @@ meanwhile, we keep the old already input data by user, use old method by Laravel
 
 
 ### Agile-ness
+To be honest, during this time, I did not use the SMART template to set my detailed goals. 
+Because I got sick for a few days, then my team didn't assign me a lot of tasks, just modify the information about the stocks table. 
+
+Then I did some optimization and improvement in terms of security and user experience. 
+But at the same time, let me understand why the Agile Manifesto said on the first day that everything should be people-centered, and no documents or processes are important. 
+If someone is ill, or if they can't work for any other reason, everything doesn't make sense.
