@@ -33,6 +33,7 @@ Elise said, try not to delete anything, including branches, commit records, etc.
 > #### What barriers did you encounter?
 
 For me, the first barrier is the difference in philosophy in the first Sprint. I have had a couple of years of development experience, probably a decade ago, so I may have some traditional development methods living in my brain such as waterfall development. When Rob first told us about the project topic and basic needs, what I thought in my mind was the whole prototype of the project. I built a structure of Inventory tracker in my subconscious, and I hope to implement it in the first Sprint. 
+
 Another reason why there may be more functions is that we don't listen to customers' ideas, so I may think a little more. 
 But when I was talking to my team members, especially Jorden, in particular, made different ideas. 
 That's the module that we only complete a small number of independent functions at each Sprint. We don't make goals that we can't accomplish. This is called Agile development. After my careful consideration, in addition to the above reasons, I think my poor English skills are also a barrier placed in front of me.
@@ -50,7 +51,9 @@ I think what I can improve is that Laravel is not deep enough to learn, and ther
 
 > #### What lessons did you learn?
 
-At this Sprint, I learned the Scrum and GitHub Agile workflows, learned more about using the Kanban feature, and all user story avatars were assigned to each of our team members. Then we will change our state through our work to know that the final completion is complete and then the work is finished. At the same time, because we have completed some basic functions in the first phase, we also learned how to deploy our current work to our public server. The main purpose of this is to let our customers see it in real time. Go to our results at each Sprint and make comments and suggestions as well as the task requirements they need to modify. Technically, deployment is not that difficult, because almost everyone has completed Linux and MariaDB learning.
+At this Sprint, I learned the Scrum and GitHub Agile workflows, learned more about using the Kanban feature, and all user story avatars were assigned to each of our team members. Then we will change our state through our work to know that the final completion is complete and then the work is finished. 
+
+At the same time, because we have completed some basic functions in the first phase, we also learned how to deploy our current work to our public server. The main purpose of this is to let our customers see it in real time. Go to our results at each Sprint and make comments and suggestions as well as the task requirements they need to modify. Technically, deployment is not that difficult, because almost everyone has completed Linux and MariaDB learning.
 
 > #### What barriers did you encounter?
 
@@ -67,17 +70,18 @@ At the same time, when I showed the function to the customer, I found that our e
 
 > #### What could you have done better?
 
-I think that in this Sprint, I didn't do well enough to using GitHub completely. 
-When Elise gave us the GitHub Guide card, I think these commands are very simple, because I know the specific meaning of these commands. But when it is actually used, there are still many problems. The first is that the use of habits and convention has not yet formed a potential awareness in my mind. 
+I think that in this Sprint, I didn't do well enough to using GitHub completely. When Elise gave us the GitHub Guide card, I think these commands are very simple, because I know the specific meaning of these commands. But when it is actually used, there are still many problems. The first is that the use of habits and convention has not yet formed a potential awareness in my mind. 
+
 For example, whenever I add a new feature, I didn't think of creating a new branch for the first time, but I was used to working directly on the master branch, so this habit is the first thing I need to correct. 
+
 The other one is that I ignored some of the necessary processes, such as the Git pull command to get the latest version before any updates. So this leads to conflicts and contradictions when I complete my function and submit a code merge request. And these conflicts can't be solved online, we need to use the Git merge command to force the merge, and then manually compare the differences between the files to resolve conflicts and contradictions. 
-At this time, if I am not familiar with the code of other team members, I need two people to solve together, which in some ways actually reduces the development efficiency, but also makes the code messy. 
-So I need to gain more experience in this area to enrich and enhance my Git usage.
+
+At this time, if I am not familiar with the code of other team members, I need two people to solve together, which in some ways actually reduces the development efficiency, but also makes the code messy. So I need to gain more experience in this area to enrich and enhance my Git usage.
 
 > #### What lessons did you learn?
 
-In this Sprint, in addition to learning the knowledge of the Laravel framework and the use of GitHub, the most time spent on me is the model design of complex databases. 
-Not to mention that this project is only a small project, but for the design of the database, there is a little bit tricky.  Although I have done the database foundation and the learning of database 2's paper, I have not encountered a complicated model structure at this school. 
+In this Sprint, in addition to learning the knowledge of the Laravel framework and the use of GitHub, the most time spent on me is the model design of complex databases. Not to mention that this project is only a small project, but for the design of the database, there is a little bit tricky.  Although I have done the database foundation and the learning of database 2's paper, I have not encountered a complicated model structure at this school. 
+
 In this example, we not only have equipment items, we also need to save the quantity of inventory, and no matter who borrows or returns the number, there are some calculations that we can't fully dynamic calculate in the program code, so this requires the design of the database. Need to be very flexible. It is neither redundant nor fulfills the requirements.
 
 > #### What barriers did you encounter?
@@ -101,6 +105,11 @@ To be honest, this Sprint is the best I have done in all of Sprint, and I feel t
 
 In this process, I learned the most in Technical Proficiency, because I completed the entire search module and all the additions to the new items, all of the other tables associated with the use of Dropdown List to display. 
 In fact, these two functions have a common feature, which is to provide a more convenient use process for the customer's operation.
+
+I learned how to add a Form to the Laravel View, and at the same time, whether the search results and the interface are on the same page or separate the pages, I have done research in two different ways, and finally chose to implement on the same page. I need to determine if the user has entered any keywords, whether the search button has been clicked, and different actions will display different feedbacks and search results. The more difficult problem during this period is that my search result is the result of a correlation query from at least 3 tables. Some of them only store the ID field of the entity, so I need to associate the literal content of all fields in detail and then be friendly show them.
+
+In addition, the same problem with the Dropdown List problem, I need to take the data from the Model, and then pass to the View through the controller, and finally through the template operation to bind multiple pieces of data into the HTML.  All of these things are relatively simple if implemented in PHP.  But this is done with Laravel, so it took some time to research and learn. But the ending result is good and there is a sense of victory. I am very happy.
+
 
 > #### What barriers did you encounter?
 
