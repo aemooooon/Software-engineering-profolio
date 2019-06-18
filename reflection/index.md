@@ -99,7 +99,10 @@ To be honest, this Sprint is the best I have done in all of Sprint, and I feel t
 
 > #### What could you have done better?
 
+Nothing is perfect. 
+In the same way, there is always more perfect than what I am currently doing. I need to work hard to pursue. 
 
+But in this special period, I am very confident that I am doing very well at this stage. Relatively considering, the understanding of agile, the use of the Scrum process, the opportunity of teamwork, and the management of time have all been more I have a comprehensive understanding, so I want to say that I need to do better. I only need to follow my current motivation and habits and I will do better.
 
 > #### What lessons did you learn?
 
