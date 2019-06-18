@@ -76,7 +76,9 @@ So I need to gain more experience in this area to enrich and enhance my Git usag
 
 > #### What lessons did you learn?
 
-
+In this Sprint, in addition to learning the knowledge of the Laravel framework and the use of GitHub, the most time spent on me is the model design of complex databases. 
+Not to mention that this project is only a small project, but for the design of the database, there is a little bit tricky.  Although I have done the database foundation and the learning of database 2's paper, I have not encountered a complicated model structure at this school. 
+In this example, we not only have equipment items, we also need to save the quantity of inventory, and no matter who borrows or returns the number, there are some calculations that we can't fully dynamic calculate in the program code, so this requires the design of the database. Need to be very flexible. It is neither redundant nor fulfills the requirements.
 
 > #### What barriers did you encounter?
 
