@@ -4,16 +4,6 @@ title: Personal reflection
 description: Personal reflection
 theme: red
 ---
-# Sprint One(3.6-3.20)
-# Sprint Two(3.20-4.3)
-# Sprint Three(4.3-5.1)
-# Sprint Four(5.1-5.15)
-# Sprint Five(5.15-5.29)
-
-
-
-
-
 
 # Sprint 1
 > #### What did you do well?
@@ -139,3 +129,8 @@ We basically all achieved the goals we set.
 
 
 
+* Sprint One(3.6-3.20)
+* Sprint Two(3.20-4.3)
+* Sprint Three(4.3-5.1)
+* Sprint Four(5.1-5.15)
+* Sprint Five(5.15-5.29)
