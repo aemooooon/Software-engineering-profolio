@@ -67,7 +67,12 @@ At the same time, when I showed the function to the customer, I found that our e
 
 > #### What could you have done better?
 
-
+I think that in this Sprint, I didn't do well enough to using GitHub completely. 
+When Elise gave us the GitHub Guide card, I think these commands are very simple, because I know the specific meaning of these commands. But when it is actually used, there are still many problems. The first is that the use of habits and convention has not yet formed a potential awareness in my mind. 
+For example, whenever I add a new feature, I didn't think of creating a new branch for the first time, but I was used to working directly on the master branch, so this habit is the first thing I need to correct. 
+The other one is that I ignored some of the necessary processes, such as the Git pull command to get the latest version before any updates. So this leads to conflicts and contradictions when I complete my function and submit a code merge request. And these conflicts can't be solved online, we need to use the Git merge command to force the merge, and then manually compare the differences between the files to resolve conflicts and contradictions. 
+At this time, if I am not familiar with the code of other team members, I need two people to solve together, which in some ways actually reduces the development efficiency, but also makes the code messy. 
+So I need to gain more experience in this area to enrich and enhance my Git usage.
 
 > #### What lessons did you learn?
 
