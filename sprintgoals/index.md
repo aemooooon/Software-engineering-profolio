@@ -495,8 +495,7 @@ So I think the main risk is about SQL Injection. It is the placement of maliciou
 
 In terms of UX, I feel like that is really important things.
 
-> “No product is an island. A product is more than the product. It is a cohesive, integrated set of experiences. Think through all of the stages of a product or service – from initial intentions through final reflections, from first usage to help, service, and maintenance. Make them all work together seamlessly.”
-
+> “No product is an island. A product is more than the product. It is a cohesive, integrated set of experiences. Think through all of the stages of a product or service – from initial intentions through final reflections, from first usage to help, service, and maintenance. Make them all work together seamlessly.” <br />
 — Don Norman, inventor of the term “User Experience”
 
 
