@@ -99,7 +99,8 @@ To be honest, this Sprint is the best I have done in all of Sprint, and I feel t
 
 > #### What lessons did you learn?
 
-
+In this process, I learned the most in Technical Proficiency, because I completed the entire search module and all the additions to the new items, all of the other tables associated with the use of Dropdown List to display. 
+In fact, these two functions have a common feature, which is to provide a more convenient use process for the customer's operation.
 
 > #### What barriers did you encounter?
 
