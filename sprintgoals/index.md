@@ -514,7 +514,7 @@ $request->validate([
 ```
 like productID, location and person field all from Dropdown List.
 
-meanwhile, we keep the old already input data by user, use old method by Laravel. `<input type="text" class="form-control" name="name"  value="{{ old('name') }}"/>`
+meanwhile, we keep the old already input data by user, use old method by Laravel. `<input type="text" class="form-control" name="name"  value="{{ old('name') }}"/>`. There are other many way to implement UX, not only from technical, but also I could from design to considering. I found this area is very intersting, Coincidentally, Otago Polytechnic is about to run this Paper, I really want to take this paper, but maybe there will never be a chance.
 
 
 ### Agile-ness
