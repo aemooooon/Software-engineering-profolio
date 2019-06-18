@@ -495,9 +495,26 @@ So I think the main risk is about SQL Injection. It is the placement of maliciou
 
 In terms of UX, I feel like that is really important things.
 
-> “No product is an island. A product is more than the product. It is a cohesive, integrated set of experiences. Think through all of the stages of a product or service – from initial intentions through final reflections, from first usage to help, service, and maintenance. Make them all work together seamlessly.” <br />
+> “No product is an island. A product is more than the product. It is a cohesive, integrated set of experiences. Think through all of the stages of a product or service – from initial intentions through final reflections, from first usage to help, service, and maintenance. Make them all work together seamlessly.” <br /><br />
 — Don Norman, inventor of the term “User Experience”
 
+So basicaly we create and develop a Application that not only make a app the user just use it. We also need think about how about the user experience, how easy, convenient to use and  how much good feeling the user could get.
+
+In our project, we did some thing about that even though not perfact. We used the Form validation which is support by Laravel framework, but also I did some research about other not default rules. for example, I have changed how validate Dropdown list element:
+```php
+use Illuminate\Validation\Rule;
+$request->validate([
+            'productID'=>['required',Rule::notIn(['0']),],
+            'location'=> ['required',Rule::notIn(['0']),],
+            'person' => ['required',Rule::notIn(['0']),],
+            'amount' => 'required',
+            'borrowdate' => 'required',
+            'returndate' => 'required'
+               ]); 
+```
+like productID, location and person field all from Dropdown List.
+
+meanwhile, we keep the old already input data by user, use old method by Laravel. `<input type="text" class="form-control" name="name"  value="{{ old('name') }}"/>`
 
 
 ### Agile-ness
