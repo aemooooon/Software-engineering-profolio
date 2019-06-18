@@ -88,7 +88,10 @@ For me, there aren't too many technical challenges. But the obstacles still exis
 
 > #### What did you do well?
 
-
+To be honest, this Sprint is the best I have done in all of Sprint, and I feel the most fulfilling. It is embodied in the following aspects: 
+1. Good communication, I have met team members and have conducted in-depth communication with the customer a couple of times. 
+2. Learn most of the new things and complete the most features. For details, please see “What lessons did you learn?”.
+3. Time management is better than before. The time and tasks set in my SMART goal are completed on schedule.
 
 > #### What could you have done better?
 
