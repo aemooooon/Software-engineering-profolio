@@ -6,6 +6,7 @@ theme: red
 ---
 
 # Sprint 1
+
 > #### What did you do well?
 
 At the first of Sprint, my communication with my team members was very smooth, and we are all very happy to be in a team. 
@@ -148,6 +149,7 @@ The first rule of the manifesto, the fourth, fifth, sixth, and eighth principles
 
 
 # All Sprint Timetable
+
 * Sprint One(3.6-3.20)
 * Sprint Two(3.20-4.3)
 * Sprint Three(4.3-5.1)
