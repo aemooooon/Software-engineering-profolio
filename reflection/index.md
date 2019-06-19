@@ -122,7 +122,9 @@ So from the perspective of the whole career planning, we have to learn more. I a
 
 > #### What could you have done better?
 
+In fact, there is a lot of work during this period that I should do, and it should be better. The most important one is about Items stock level which is user story As a System Admin I want to be notified when stock is low or critically low for specific items because I will need to order more. 
 
+Since I am already working on stock, I should go one step further and do more to make this feature perfect. Because this is a very important function, our customers are responsible for managing the equipment, including the shortage of stock, and it takes more time to get new equipments. You can't say that I can finish the work in a short time. So we need our system to give users a quantitative warning.
 
 > #### What lessons did you learn?
 
