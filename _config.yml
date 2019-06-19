@@ -18,7 +18,7 @@ baseurl:          '/soften-portfolio-aemooooon/'
 
 # Navigation
 navigation:
-- text: Sprint Golas
+- text: Golas
   url: /soften-portfolio-aemooooon/sprintgoals/
 - text: Agile
   url: /soften-portfolio-aemooooon/agile/
