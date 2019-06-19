@@ -141,6 +141,10 @@ If you want to prevent others from attacking, we must first be familiar with the
 
 > #### What barriers did you encounter?
 
+My barriers are still language barriers. Learning, research and reading all need to read a lot of documents. My language ability makes my learning speed and efficiency very slow. A lot of times I can understand the code, but I can't fully understand the text and sentences that describe the code. It feels like this is a very weird phenomenon. 
+
+On the other hand, my illness and absence are also an obstacle for the project. You should find out the agile manifesto and principles. 
+The first rule of the manifesto, the fourth, fifth, sixth, and eighth principles are people-based and core. If people can't participate in it, nothing can be done. So this is the importance of people in agile. For me in this Sprint, it is another barriers.
 
 
 # All Sprint Timetable
