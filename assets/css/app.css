@@ -100,8 +100,8 @@ img:hover{
 .left-nav-item {
     font-size: 18px;
     text-indent: 36px;
-    line-height: 50px;
-	margin-bottom:30px;
+    line-height: 100px;
+	margin-bottom:3px;
 }
 
 .left-nav-item a{
