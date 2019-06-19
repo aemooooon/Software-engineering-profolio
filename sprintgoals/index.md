@@ -8,7 +8,7 @@ theme: purple
 <hr>
 
 ## Introduction
-Hello world!
+This is the portfolio - Sprint Goals parts of my 2019 S1 SoftwareEnginering Paper. I will record my work for all Sprints this semester on this page. Each Sprint includes Professional practices, Technical proficiency, and Agile-ness. Among them are my goals, my work, and any new knowledge (technical in common) I have learned. And also I will put some evidence such as meeting photo here.
 
 <hr>
 
