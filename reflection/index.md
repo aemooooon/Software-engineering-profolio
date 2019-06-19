@@ -126,12 +126,22 @@ So from the perspective of the whole career planning, we have to learn more. I a
 
 > #### What lessons did you learn?
 
+I am very interested in SQL injection, and I also learned a lot about the basic attack principle and protection principle of this topic. For example:
+1. Get request method: http://www.example.com/products?category=keyborad <br />
+Looking closely at this address, you will find that the request method is Get, so if you want to inject only need to change the URL address, to create fake condition or use SQL comment to attack. such as:
+* http://www.example.com/products?category=keyborad'--
+* http://www.example.com/products?category=keyborad or 1=1
+2. POST requet method:<br />
+* SELECT name,password FROM users WHERE *** ' UNION SELECT username,password FROM users--
+just put these statement to form which is the user input
 
+If you want to prevent others from attacking, we must first be familiar with these attacks. Different languages and frameworks have their own code and methods. What we have to do is to maintain a sense of alertness.
 
 > #### What barriers did you encounter?
 
 
 
+# All Sprint Timetable
 * Sprint One(3.6-3.20)
 * Sprint Two(3.20-4.3)
 * Sprint Three(4.3-5.1)
