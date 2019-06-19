@@ -11,6 +11,8 @@ font-family: Arial, Helvetica, sans-serif;
 
 .left-nav-item a {
     background: #c9c9c9;
+	opacity: 0.5;
+  filter: alpha(opacity=50);
     display: block;
     text-decoration: none;
     padding: 0.8rem;
