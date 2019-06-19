@@ -106,9 +106,10 @@ In addition, the same problem with the Dropdown List problem, I need to take the
 
 > #### What barriers did you encounter?
 
-Regarding the barriers, I think there should be no barriers. 
-I have already said that this time is my own feeling of the best, but also the smoothest of all the work. No matter whether it is communication with the customer, the team, or the control of the Scrum process, and whether or not to follow the agile manifesto and the agile principles, there is no big problem. At the same time, the efficiency of the entire team is relatively high. 
-We basically all achieved the goals we set.
+Regarding the barriers, I think there are a few small barriers in personal styles.
+I have already said that this time is my own feeling of the best, but also the smoothest of all the work. No matter whether it is communication with the customer, the team, or the control of the Scrum process, and whether or not to follow the agile manifesto and the agile principles, there is no big problem. At the same time, the efficiency of the entire team is relatively high. We basically all achieved the goals we set.
+
+Although, there are some stuff I didn't make perfact. For instance, I should use AJAX to implement the Search features, When User type any letter or words, the results will automitcally changing by keywords. This will improve the User experience. But because I lack the motivation to pursue perfection, perhaps lazy or other reasons, I did not make this module as perfect as I imagined. So this is a shortcoming of my personal styles. I need to change my inertia, then change myself and pursue the perfection of the project.
 
 
 # Sprint 5
