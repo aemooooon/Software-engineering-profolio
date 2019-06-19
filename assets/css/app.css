@@ -4,7 +4,7 @@
 	line-height: 1.6;
 }
 
-.nav_cus a {
+.left-nav-item a {
     background: #ddd;
     display: block;
     text-decoration: none;
@@ -16,7 +16,7 @@
     box-shadow: 0 1px 5px rgba(104,104,104,0.8);
 }
 
-.nav_cus a:hover{
+.left-nav-item a:hover{
     background: #333;
     color: #fff;
     transition: all 0.5s linear;
