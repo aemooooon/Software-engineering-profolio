@@ -116,6 +116,8 @@ Although, there are some stuff I didn't make perfact. For instance, I should use
 
 > #### What did you do well?
 
+In this Sprint, what I did better was to study a lot of knowledge about Web security and user experience. Rather than simply be limited the Web development technology. All previous learning and direction are to make the function of the project as good as possible, never considering the user experience and website security. Through the explanations of Matin and Elise, I found that these two aspects are especially important. Imagine if you do something beautiful and powerful if the security is not good, the user experience is poor, it will be worthless, there will be no customers. Willing to spend money to buy your products, let alone have any market competitiveness. 
+So from the perspective of the whole career planning, we have to learn more. I am very happy. I understand these reasons, which opens up my vision of viewing a project from the whole. If I am a project leader, I will be in the project all these aspects are considered at the beginning. Such a product is called a real product. I should also continue to delve into research and study in these areas.
 
 
 > #### What could you have done better?
